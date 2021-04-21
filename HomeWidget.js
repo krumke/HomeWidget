@@ -9,7 +9,7 @@ const opacity = 0.8;
 //name of Calendar you don't want to see e.g. Siris recomandations:  
   const calendarTitle = "Found in Natural Language";
 //insert your openweathermap api key here:    
-  const APIKey = "2a03650be6c202252ce5d960d56caf68";
+  const APIKey ="";
 //get current location or static location (be aware current location uses gps, therefore it could slow down the widget):      
   const staticLocation = true; 
   //if you use static location you have to add the location to these Variables:   
